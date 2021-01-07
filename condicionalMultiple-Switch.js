@@ -15,6 +15,6 @@ switch (signo){
         break
     default :
         consolelog('No es un signo zodiacal')
-        break
+        break   
 }
 
