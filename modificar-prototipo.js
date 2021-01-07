@@ -19,7 +19,6 @@ let ericka= new Persona2('Ericka', 'Luna',1.50)
 let diana = new Persona2('Diana', 'Perez',1.90)
 
 juan.saludar()
-
 console.log(juan.soyAlto())
 
 console.log(diana.soyAlto())
