@@ -9,5 +9,8 @@
     "show-files": "ls -la && echo 'hola' && echo 123421412421s"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
